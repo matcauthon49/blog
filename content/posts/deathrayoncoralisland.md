@@ -21,6 +21,7 @@ Here's where you can watch the film online, with English subs, along with some o
 * YouTube: [https://youtu.be/7hIPKeL3dmQ?feature=shared](https://youtu.be/7hIPKeL3dmQ?feature=shared)
 * Letterboxd: [https://letterboxd.com/film/death-ray-on-coral-island/](https://letterboxd.com/film/death-ray-on-coral-island/)
 * IMDb: [https://www.imdb.com/title/tt0347992/](https://www.imdb.com/title/tt0347992/)
+* Website: [Redirects to this Page](https://matcauthon49.github.io/blog/posts/deathrayoncoralisland/)
 
 This work was not done alone: my own Mandarin is limited to “Ni Hao.” I would like to extend my personal thanks to <a class="mainlink" href="https://padma.neocities.org">紅蓮</a> (Iris) for a speedy and thorough translation, and to my homegirl <a class="mainlink" href="https://zhanpeifang.com">ZP</a> for connecting us.
 
