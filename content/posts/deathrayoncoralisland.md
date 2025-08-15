@@ -17,7 +17,7 @@ I have managed to procure this film and published a full translation with subtit
 
 Here's where you can watch the film online, with English subs, along with some other links:
 
-* Archive.org:
+* Archive.org (Subtitles Only):
 * YouTube: [https://youtu.be/7hIPKeL3dmQ?feature=shared](https://youtu.be/7hIPKeL3dmQ?feature=shared)
 * Letterboxd: [https://letterboxd.com/film/death-ray-on-coral-island/](https://letterboxd.com/film/death-ray-on-coral-island/)
 * IMDb: [https://www.imdb.com/title/tt0347992/](https://www.imdb.com/title/tt0347992/)
