@@ -25,7 +25,7 @@ date_format = "%b %-d, %Y"
 +++
 
 
-I am a cryptographer and computer scientist. Currently I'm at [IRIF](https://www.irif.fr) as a PhD student. This is my personal webpage—if you're looking for my academic information, you can find it [here](matcauthon49.github.io).
+I am a cryptographer and computer scientist. Currently I'm at [IRIF](https://www.irif.fr) as a PhD student. This is my personal webpage—if you're looking for my academic information, you can find it [here](https://matcauthon49.github.io).
 
 I am interested in film, art, and sports and partake in a variety of activities related to these pursuits. These include taking photographs, translating movies, writing about films, origami, calisthenics tricks, and so on. There's a bunch of information about this stuff here, along with futher permanent documentation of the vast number of ways I have discovered I can waste my time.
 
