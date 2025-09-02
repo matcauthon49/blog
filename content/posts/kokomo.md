@@ -1,6 +1,9 @@
 +++
 title = "kokomo"
 date = 2025-08-23
+
+[taxonomies]
+tags = ["music", "analysis"]
 +++
 
 {{ figure(src="https://matcauthon49.github.io/assets/blog/kokomo/kokomo.png", alt="kokomo", caption="The Beach Boys' Mythical Island.") }}

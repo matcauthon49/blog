@@ -1,6 +1,9 @@
 +++
 title = "film archival // 珊瑚岛上的死光 (death ray on coral island, 1980)"
 date = 2025-08-13
+
+[taxonomies]
+tags = ["movies", "project"]
 +++
 
 {{ figure(src="https://matcauthon49.github.io/assets/blog/deathray/deathray.jpg", alt="Original Poster for 珊瑚岛上的死光", caption="Original Poster for 珊瑚岛上的死光.") }}

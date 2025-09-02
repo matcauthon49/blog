@@ -1,6 +1,9 @@
 +++
 title = "crafting the perfect workout routine"
 date = 2025-08-15
+
+[taxonomies]
+tags = ["fitness", "project"]
 +++
 
 Recently I’ve become interested in switching up my gym routine.
