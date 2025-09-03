@@ -1,6 +1,6 @@
 +++
 title = "walking to mordor"
-date = 2025-08-30
+date = 2025-09-12
 draft = true
 +++
 

@@ -14,7 +14,7 @@ bio = "cryptographer and cinema enthusiast. i really like driving."
 # avatar = "img/me.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/matcauthon49" },
-    { name = "Twitter", icon = "twitter", url = "https://bsky.app/profile/matcauthon49.bsky.social" },
+    { name = "Twitter", icon = "twitter", url = "https://x.com/matcauthon91" },
     { name = "Email", icon = "email", url = "mailto:namankr02@gmail.com" },]
 
 # Show a few recent posts in home page

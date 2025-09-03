@@ -7,7 +7,6 @@ page_template = "post.html"
 
 [extra]
 lang = "en"
-
 +++
 
 # film
