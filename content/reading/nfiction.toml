@@ -7,3 +7,8 @@ content = "John Bolster"
 type = "card_simple"
 title = "Sun and Steel"
 content = "Yukio Mishima"
+
+[[collection]]
+type = "card_simple"
+title = "Twilight of the Idols"
+content = "Friedrich Nietzsche"

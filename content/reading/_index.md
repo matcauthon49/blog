@@ -17,3 +17,7 @@ lang = "en"
 
 # non fiction
 {{ collection(file="nfiction.toml") }}
+
+<!-- 
+# to-read
+{{ collection(file="toread.toml") }} -->
