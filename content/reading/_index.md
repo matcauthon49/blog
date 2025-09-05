@@ -18,6 +18,30 @@ lang = "en"
 # non fiction
 {{ collection(file="nfiction.toml") }}
 
-<!-- 
+
 # to-read
-{{ collection(file="toread.toml") }} -->
+
+I have a burning hatred for the Goodreads and Storygraph UIs and the personalities drawn to it, so I am demoing the use of this page to manage the books on my tbr. I am not expecting to ever complete this list.
+
+**classical**
+{{ collection(file="tr-classical.toml") }}
+
+**classics**
+{{ collection(file="tr-classics.toml") }}
+
+**contemporary**
+
+**sci-fi & fantasy**
+
+**sports**
+<!-- {{ collection(file="tr-sports.toml") }} -->
+
+**history**
+
+**philosophy**
+
+**general non-fiction**
+
+**misc**
+
+**birding**

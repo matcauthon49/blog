@@ -1,5 +1,10 @@
 [[collection]]
 type = "card_simple"
+title = "The Picture of Dorian Gray"
+content = "Oscar Wilde"
+
+[[collection]]
+type = "card_simple"
 title = "Silver Linings Playbook"
 content = "Matthew Quick"
 
