@@ -40,7 +40,11 @@ I have a burning hatred for the Goodreads and Storygraph UIs and the personaliti
 
 **philosophy**
 
+{{ collection(file="tr-philosophy.toml") }}
+
 **general non-fiction**
+
+{{ collection(file="tr-nf.toml") }}
 
 **misc**
 
