@@ -1,0 +1,14 @@
+[[collection]]
+type = "card_simple"
+title = "The Best of Sports Illustrated"
+content = "John Bolster"
+
+[[collection]]
+type = "card_simple"
+title = "Sun and Steel"
+content = "Yukio Mishima"
+
+[[collection]]
+type = "card_simple"
+title = "Twilight of the Idols"
+content = "Friedrich Nietzsche"
