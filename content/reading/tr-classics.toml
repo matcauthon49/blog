@@ -165,7 +165,7 @@ content = "Friedrich Nietzsche"
 
 [[collection]]
 type = "card_simple"
-title = "The Jungle Book (Jungle Book, #1)"
+title = "The Jungle Book"
 content = "Rudyard Kipling"
 
 [[collection]]
@@ -217,11 +217,6 @@ content = "Edith Wharton"
 type = "card_simple"
 title = "Ulysses"
 content = "James Joyce"
-
-[[collection]]
-type = "card_simple"
-title = "Siddhartha"
-content = "Hermann Hesse"
 
 [[collection]]
 type = "card_simple"

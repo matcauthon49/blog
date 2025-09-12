@@ -69,7 +69,7 @@ In any case, allowing Apple Music to cycle through related songs[^3] led me to t
 >
 > Who have more fun than me
 
-This is Marcie Blane’s *Why Can’t I Get a Guy*, ostensibly marketed towards high-school girls. Because I’m a dumb idiot easily swayed into sentimentalism, however, my reaction to this is some flavor of “the world is so unfair, why can’t she get a guy, I hate everything, [grumble].” Contributing to this, of course, is how Marcie *sounds*—there’s a genuine longing in her chorus borne out of frustration, which would make sense, since it would indeed appear that she was 18 at the time this was written. 
+This is Marcie Blane’s *Why Can’t I Get a Guy*, ostensibly marketed towards high-school girls. Because I’m a dumb idiot easily swayed into mawkishness, however, my reaction to this is some flavor of “the world is so unfair, why can’t she get a guy, I hate everything, [grumble].” Contributing to this, of course, is how Marcie *sounds*—there’s a genuine longing in her chorus borne out of frustration, which would make sense, since it would indeed appear that she was 18 at the time this was written. 
 
 Obviously, I think this is genius. 
 
@@ -91,17 +91,57 @@ This is really interesting to me because the cliques of *You Belong with Me* are
 
 My answer is *maybe not even then*. Just because the audience would be able to recognize the cliques doesn’t mean that the manner in which Taylor is asking them to relate to the contrast would hit in the same way.
 
-This is a really interesting question, one which I’ve generally become more interested in as of recent. Maybe a broader perspective could help in phrasing it correctly.
+This is a really interesting question, one which I’ve found myself pondering increasingly as of late. Maybe a broader perspective could help in phrasing it correctly.
 
 {% quote(cite="") %}
 Do people today have more complex thought patterns than they used to?
 {% end %}
 
+# west texas
+
+Part of the problem is that we have always thought complexly. Every major religion has developed tools to still the mind, to calm it—meditative practices are thousands of years old, and seek to reform our predisposition towards piling on layers of meta-thoughts by focusing our gaze on a singular object at a time. By our very nature we are worriers and dreamers and need to be taught how to avert ourselves from madness.
+
+It is possible that the question I pose is ill-defined. But perhaps a start is to approach it from the opposite end; to think of the virtue of simplicity, and where it arises. According to Don Delillo’s *End Zone*, the answer is west Texas.
+
+I have never been to west Texas. But I have been to California and Nevada and Arizona and fallen in love with the neverending wastelands of the frontier. A not-insignificant part of my love of the United States[^4] is a love for the *land* on which it lies—perhaps one of the singularly best pieces of land on earth, rivaled really only by the spectacles of China and India (although we over here seem to have smothered it with layers and layers of concrete). The nature of how land exists in America has always seemed to me to be strange and foreign, a reversal from my homeland where long expanses of civilization are interspersed with the occasional natural wonder. In the US it is entirely different. Most of the country is really just nothing. Drive long enough on the roads and maybe a city might pop up in a hundred or so miles, but more than likely it might be some sort of trailer park or a solitary dwelling occupied by people who have a rare defiance of nature. In America you cross the horizon and see a city approaching in the distance. It is a sight otherwise impossible to find.
+
+In this barren desert—one of the hottest in the world—you find yourself occupied by the sheer *nothingness* of your surroundings. It is enough to induce simplicity even amongst the most neurotic of men. Every night you can look up and see the Milky Way. This is where Delillo sends his protagonist Gary Harkness, a guard for Logos College and a recovering troublemaker, of sorts. Occupied to the brim with the threat of global thermonuclear war, Gary and his teammates attempt to use football to transform their minds into the autonomic ideal that forms the thought processes of all the best athletes: *nothing at all*[^5].
+
+{% quote(cite="") %}
+At Penn State, the next stop, I studied hard and played well. But each day that autumn was exactly like the day before and the one to follow. I had not yet learned to appreciate the slowly gliding drift of identical things; chunks of time spun past me like meteorites in a universe predicated on repetition.
+{% end %}
+
+{% quote(cite="") %}
+Each day, for example, I spent some time in meditation. This never failed to be a lovely interlude, for there was nothing to meditate on. Each day I added a new word to my vocabulary, wrote a letter to someone I loved, and memorized the name of one more president of the United States and the years of his term in office. Simplicity, repetition, solitude, starkness, discipline upon discipline. There were profits here, things that could be used to make me stronger; the fanatical monk who clung to my liver would thrive on such ascetic scraps. And then there was geography. We were in the middle of the middle of nowhere, that terrain so flat and bare, suggestive of the end of recorded time, a splendid sense of remoteness firing my soul. It was easy to feel that back up there, where men spoke the name civilization in wistful tones, I was wanted for some terrible crime.
+{% end %}
+
+Gary is joined in this endeavor by his bedwetting roommate Anatole Bloomberg, who has found himself reaching a formidable weight of three hundred pounds.
+
+{% quote(cite="") %}
+I am a twentieth-cenury individual. I am working myself up to a point where I can exist beyond guilt, beyond blood, beyond the ridiculous past. Thank god for America. In this country there’s a chance to accomplish such a thing. I want to look straight ahead. I want to see things clearly. I’d like to become single-minded and straightforward in the most literal sense of those words. History is no more accurate than prophecy. I reject the wrathful God of the Hebrews. I reject the Christian God of love and money, although I don’t reject love itself or money itself. I reject heritage, background, tradition and birthright. These things merely slow the progress of the human race. They result in war and insanity, war and insanity, war and insanity.
+{% end %}
+
+{% quote(cite="") %}
+But the remoteness helped me. The desert was an ideal place […] I spoke aloud to myself in the desert, straightening out my grammar, getting rid of the old slang and the old speech rhythms. I walked in straight lines. I tried to line myself up parallel to the horizon and then walk in a perfectly straight line. I tried to become single-minded and straightforward, to keep my mind set on one thought or problem until I was finished with it. It was hot and lonely. I wore a lot of clothing to keep the sun from burning me and causing my skin to peel. Sometimes I read aloud from a children’s reader. I wanted to start all over again with simple declarative sentences. Subject, predicate, object. Dick opened the door. Jane fed the dog. It helped me immensely. I began to think more clearly, to concentrate, to leave behind the old words and aromas and guilts.
+{% end %}
+
+As Gary and Anatole embark on this journey they find themselves increasingly drawn to their coach, a solitary genius named Emmet Creed, who finally appears in person in the last few pages—telling Gary that his acts of rebellion have resulted in him being appointed offensive captain.
+
+{% quote(cite="") %}
+The inner life must be disciplined just as the hand or eye. Loneliness is strength. The Sioux purified themselves by fasting and solitude. Four days without food in a sweat lodge. Before you went out to lament for your nation, you had to purify yourself. Fasting and solitude. If you can survive loneliness, you’ve got an inner strength that can take you anywhere. Four days. You wore just a bison robe. I don’t think there’s anything that makes more sense than self-denial. It’s the only way to attain moral perfection. I’ve wandered here and there. I’ve made this and that mistake. But now I’m back and I’m back for good. A brave nation needs discipline. Purify the will. Learn humility. Restrict the sense life. Pain is part of the harmony of the nervous system.
+{% end %}
+
+
+
+
+
+
+
 # on a boat moored to west egg
 
+# smoking in the mothlight
 
-
-
+# my dumb summer fling
 
 # endnotes
 
@@ -110,3 +150,7 @@ Do people today have more complex thought patterns than they used to?
 [^2]: As a side note, it is interesting that I am interpreting a dream *about* *Mulholland Drive*, which is itself (famously) a movie that takes place in a dream—indeed, most interpretations of the scene I talked about conclude that the scene is taking place within a dream in the context of the movie itself. So I was dreaming the dream from *Mulholland Drive*, but my own interpretation is different from how the dream should be interpreted in the movie. In the movie the dreamer is Naomi Watts, but in the context of my own dream the dreamer is Theroux (which is the character I am projected onto). 
 
 [^3]: Listening to pre-1960s music is something I do with some frequency, but it is always an **event**—post-‘60s music is just what I listen to on the daily, so it can’t really be counted as such. But whenever I fall into these spans of listening to old pop a fun exercise is always to listen to something quite mild like The Beatles’ *I Want to Hold Your Hand* or The Kinks’ *You Really Got Me* immediately after—with that pre-‘60s context in mind, these songs sound insane. Maybe the only legitimate descriptor is that they sound like, well, as if the devil somehow made his way into your stereo.
+
+[^4]: I find, very often, that I am lambasted with accusations of being an Americophile. Although I will always have the sullen defense that I partially grew up around those parts, it is not really a description I would call inaccurate. I am, fortunately or unfortunately, completely obsessed with the United States and its history and culture. Less so with the current era of the country, being what it is, but in that regard I am in some sense beat—like it or not, we all live in the United States today, no matter where our geolocation lies.
+
+[^5]: This is not my idea. Read the best essay I’ve ever read on sports: David Foster Wallace’s *How Tracy Austin Broke My Heart*.

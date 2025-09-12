@@ -1,7 +1,13 @@
 [[collection]]
 type = "card_simple"
+title = "Siddhartha"
+content = "Herman Hesse"
+
+[[collection]]
+type = "card_simple"
 title = "End Zone"
 content = "Don Delillo"
+date = "Good ✅"
 
 [[collection]]
 type = "card_simple"
