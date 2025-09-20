@@ -3,7 +3,7 @@ title = "come back to the 5 & dime, marcie blane, marcie blane"
 date = 2025-09-12
 
 [taxonomies]
-tags = ["music", "movies", "literature", "analysis"]
+tags = ["music", "movies"]
 +++
 
 {{ figure(src="https://matcauthon49.github.io/assets/blog/marcieblane/mdr.png", alt="mulholland drive", caption="") }}
