@@ -24,6 +24,4 @@ I passively partake in film-related efforts and activities. Among other things, 
 
 ## favorite films
 
-Full list [here](https://letterboxd.com/idontplaytetris/list/meezus/).
-
 {{ collection(file="movies.toml") }}
