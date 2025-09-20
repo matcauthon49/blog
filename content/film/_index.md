@@ -11,7 +11,7 @@ lang = "en"
 
 # film
 
-I write about movies. A good compilation of my opinions on movies can be found on my letterboxd (warning: TMI). Some of my professional writings are attached below; I will update as bylines appear.
+I write about movies. Some of my professional writings are attached below; I will update as bylines appear.
 
 {{ collection(file="bylines.toml") }}
 
