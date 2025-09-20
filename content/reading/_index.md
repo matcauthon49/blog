@@ -29,6 +29,15 @@ I have a burning hatred for the Goodreads and Storygraph UIs and the personaliti
 **classics**
 {{ collection(file="tr-classics.toml") }}
 
+**contemporary**
+
+**sci-fi & fantasy**
+
+**sports**
+<!-- {{ collection(file="tr-sports.toml") }} -->
+
+**history**
+
 **philosophy**
 
 {{ collection(file="tr-philosophy.toml") }}
@@ -36,3 +45,7 @@ I have a burning hatred for the Goodreads and Storygraph UIs and the personaliti
 **general non-fiction**
 
 {{ collection(file="tr-nf.toml") }}
+
+**misc**
+
+**birding**

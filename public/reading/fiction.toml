@@ -1,15 +1,5 @@
 [[collection]]
 type = "card_simple"
-title = "Siddhartha"
-content = "Hermann Hesse"
-
-[[collection]]
-type = "card_simple"
-title = "End Zone"
-content = "Don Delillo"
-
-[[collection]]
-type = "card_simple"
 title = "The Picture of Dorian Gray"
 content = "Oscar Wilde"
 

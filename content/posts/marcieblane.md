@@ -75,7 +75,7 @@ In any case, allowing Apple Music to cycle through related songs[^3] led me to t
 >
 > Who have more fun than me
 
-This is Marcie Blane’s *Why Can’t I Get a Guy*, ostensibly marketed towards high-school girls. Because I’m a dumb idiot easily swayed into mawkishness, however, my reaction to this is some flavor of “the world is so unfair, why can’t she get a guy, I hate everything, [grumble].” Contributing to this, of course, is how Marcie *sounds*—there’s a genuine longing in her chorus borne out of frustration, which would make sense, since it would indeed appear that she was 18 at the time this was written. 
+This is Marcie Blane’s *Why Can’t I Get a Guy*, ostensibly marketed towards high-school girls. Because I’m a dumb idiot easily swayed into sentimentalism, however, my reaction to this is some flavor of “the world is so unfair, why can’t she get a guy, I hate everything, [grumble].” Contributing to this, of course, is how Marcie *sounds*—there’s a genuine longing in her chorus borne out of frustration, which would make sense, since it would indeed appear that she was 18 at the time this was written. 
 
 Obviously, I think this is genius. 
 
@@ -99,6 +99,7 @@ This is really interesting to me because the cliques of *You Belong with Me* are
 
 My answer is *maybe not even then*. Just because the audience would be able to recognize the cliques doesn’t mean that the manner in which Taylor is asking them to relate to the contrast would hit in the same way.
 
+This is a really interesting question, one which I’ve generally become more interested in as of recent. Maybe a broader perspective could help in phrasing it correctly.
 I’ve found myself pondering this increasingly as of late. Maybe a broader perspective could help in phrasing it correctly.
 
 {% quote(cite="") %}
