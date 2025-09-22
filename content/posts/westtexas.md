@@ -3,7 +3,7 @@ title = "i want to go to west texas"
 date = 2025-09-21
 
 [taxonomies]
-tags = ["literature", "analysis"]
+tags = ["mentalhealth", "literature", "analysis"]
 +++
 
 I have never been to west Texas. But I have been to California and Nevada and Arizona and fallen in love with the neverending wastelands of the frontier. A not-insignificant part of my love of the United States[^1] is a love for the *land* on which it lies—perhaps one of the singularly best pieces of land on earth, rivaled really only by the spectacles of China and India (although we over here seem to have smothered it with layers and layers of concrete). The nature of how land exists in America has always seemed to me to be strange and foreign, a reversal from my homeland in India where long expanses of civilization are interspersed with the occasional natural wonder. In the US it is entirely different. Most of the country is really just nothing. Drive long enough on the roads and maybe a city might pop up in a hundred or so miles, but more than likely it might be some sort of trailer park or a solitary dwelling occupied by people who have rare defiance of nature. In America you cross the horizon and see a city approaching in the distance. It is a sight otherwise impossible to find.
