@@ -42,7 +42,7 @@ This is a significant problem in India, however. The normalized method of paymen
 
 # social media
 
-Here is stuff I absolutely need to get rid off. Unfortunately, I have accounts on too many of these things.
+Here is stuff I absolutely need to get rid of. Unfortunately, I have accounts on too many of these things.
 
 ## instagram
 
@@ -158,6 +158,19 @@ This is ALL I do on my iPad, I do not require it for any other reason; a nice pe
 The main deal is that I no longer have a browser on my iPad, so I can't do anything stupid on it.
 
 Ideally, I could just do the same thing to my phone instead of buying a new dumbphone altogether. However the form factor of my Phone makes it pretty easy to just plug it into my computer and reset it—it's better to just not have the phone handy at all. I also don't have an iPhone, but an Android phone, and I'm not really certain how to do such things on it; besides, I don't know what additional functionalities are going to be limited by the fact that I don't have a browser on my iPad, and I don't want to take any risks like that on my phone—I still need everything to be accessible if *really* required.
+
+This is the series of steps I had to take to block access to my iPad permanently. I don't think you can actually do it without a MacBook, so take care.
+
+1. I downloaded Apple Configurator 2 from the App Store.
+2. I connected my iPad physically to my MacBook via a USB-C cable. The device popped up on configurator.
+3. I erased my iPad via the prompt menu, and further removed the [activation lock](https://support.apple.com/en-in/108794). You need to do this to set up the iPad as a supervised device—since it already has stuff on it, you can't set it up as a new supervised device. The activation lock is a mechanism to lock your iPad in case it gets lost; you need to disable it since you're basically setting up an entirely new device. You can do this on the [iCloud Find My Device](https://www.icloud.com/find/) menu. Mine didn't have any stuff on it, but you should probably back up your data to iCloud and download it onto your MacBook.
+4. The iPad will restart with factory settings. Go through the setup, but don't back up your data; this will restore your old iPad.
+5. When it prompts you to enter an Apple ID, set up your device as a supervised device *first*, then log in, otherwise it will again try to restore your old iPad.
+6. You should now be able to back up your data onto your iPad, while ensuring that it remains supervised.
+7. On the Configurator menu, set up a new ‘profile’—this is basically a set of rules ensuring what you can and can't do. Make sure to make your profile unremovable without an administrator password, otherwise you'll just remove it. Then add a really long and annoying password and write it down somewhere or give it to a friend.
+8. You should now be able to use the menu to make whatever changes you want to your iPad. I removed a bunch of browsers and then the App Store, leaving behind only the bare-bones things I needed. I also blocked a bunch of websites so any loopholes wouldn't work. Essentially all I can do on my iPad now is import files via Drive and then write on them via Goodnotes; it's basically a glorified notebook. I can also send and recieve emails to work with documents and use some messaging/rideshare apps.
+9. If you're really determined, you might plug in your iPad again and try to reset the profile. There's a simple way of preventing this: use [Cold Turkey](https://getcoldturkey.com) to block access to the Configurator app on your Mac; it's much easier to block things on a Mac since it's a real OS that allows you to do whatever you want on it.
+10. To keep things ‘technically’ usable, keep the block on except between 0413 and 0414. That gives you a one-minute window at 4 in the morning to reset the Configurator app, in case you're having some kind of real emergency.
 
 # what am i going to do now
 
