@@ -7,3 +7,8 @@ content = "Mark Fisher"
 type = "card_simple"
 title = "Infinite Jest"
 content = "David Foster Wallace"
+
+[[collection]]
+type = "card_simple"
+title = "The Secret History"
+content = "Donna Tartt"
