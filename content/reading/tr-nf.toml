@@ -44,3 +44,13 @@ content = "Meir Shahar"
 type = "card_simple"
 title = "Sex, Drugs and Cocoa Puffs"
 content = "Chuck Klosterman"
+
+[[collection]]
+type = "card_simple"
+title = "Everything is Tuberculosis"
+content = "John Green"
+
+[[collection]]
+type = "card_simple"
+title = "Fathoms: The World in the Whale"
+content = "Rebecca Giggs"

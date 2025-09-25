@@ -10,5 +10,15 @@ content = "David Foster Wallace"
 
 [[collection]]
 type = "card_simple"
-title = "The Secret History"
-content = "Donna Tartt"
+title = "Hamlet"
+content = "Shakespeare"
+
+[[collection]]
+type = "card_simple"
+title = "Wuthering Heights"
+content = "Emily Brontë"
+
+[[collection]]
+type = "card_simple"
+title = "Atomized"
+content = "Michel Houellebecq"
