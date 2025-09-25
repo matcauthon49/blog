@@ -22,3 +22,8 @@ content = "Emily Brontë"
 type = "card_simple"
 title = "Atomized"
 content = "Michel Houellebecq"
+
+[[collection]]
+type = "card_simple"
+title = "Van Gogh: The Complete Paintings"
+content = "Ingo F. Walther"

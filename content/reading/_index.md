@@ -31,6 +31,9 @@ I have a burning hatred for the Goodreads and Storygraph UIs and the personaliti
 
 **contemporary**
 
+{{ collection(file="tr-contemporary.toml") }}
+
+
 **sci-fi & fantasy**
 
 **sports**

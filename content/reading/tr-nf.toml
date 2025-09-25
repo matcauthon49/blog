@@ -54,3 +54,33 @@ content = "John Green"
 type = "card_simple"
 title = "Fathoms: The World in the Whale"
 content = "Rebecca Giggs"
+
+[[collection]]
+type = "card_simple"
+title = "On Photography"
+content = "Susan Sontag"
+
+[[collection]]
+type = "card_simple"
+title = "Eve's Hollywood"
+content = "Eve Babitz"
+
+[[collection]]
+type = "card_simple"
+title = "Zen and the Art of Motorcycle Maintenance"
+content = "Robert M. Pirsig"
+
+[[collection]]
+type = "card_simple"
+title = "The White Album"
+content = "Joan Didion"
+
+[[collection]]
+type = "card_simple"
+title = "The Right Stuff"
+content = "Tom Wolfe"
+
+[[collection]]
+type = "card_simple"
+title = "Love and Math: The Heart of Hidden Reality"
+content = "Edward Frenkel"
