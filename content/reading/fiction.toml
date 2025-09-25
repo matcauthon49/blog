@@ -1,5 +1,10 @@
 [[collection]]
 type = "card_simple"
+title = "The Secret History"
+content = "Donna Tartt"
+
+[[collection]]
+type = "card_simple"
 title = "Siddhartha"
 content = "Hermann Hesse"
 
