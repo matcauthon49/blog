@@ -1,0 +1,29 @@
+[[collection]]
+type = "card_simple"
+title = "k-punk"
+content = "Mark Fisher"
+
+[[collection]]
+type = "card_simple"
+title = "Infinite Jest"
+content = "David Foster Wallace"
+
+[[collection]]
+type = "card_simple"
+title = "Hamlet"
+content = "Shakespeare"
+
+[[collection]]
+type = "card_simple"
+title = "Wuthering Heights"
+content = "Emily Brontë"
+
+[[collection]]
+type = "card_simple"
+title = "Atomized"
+content = "Michel Houellebecq"
+
+[[collection]]
+type = "card_simple"
+title = "Van Gogh: The Complete Paintings"
+content = "Ingo F. Walther"
