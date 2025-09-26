@@ -50,11 +50,6 @@ content = "Alexandre Dumas"
 
 [[collection]]
 type = "card_simple"
-title = "Wuthering Heights"
-content = "Emily Brontë"
-
-[[collection]]
-type = "card_simple"
 title = "Vanity Fair"
 content = "William Makepeace Thackeray"
 

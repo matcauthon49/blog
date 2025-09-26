@@ -84,3 +84,8 @@ content = "Tom Wolfe"
 type = "card_simple"
 title = "Love and Math: The Heart of Hidden Reality"
 content = "Edward Frenkel"
+
+[[collection]]
+type = "card_simple"
+title = "Retromania"
+content = "Simon Reynolds"
