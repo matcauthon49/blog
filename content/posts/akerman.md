@@ -62,7 +62,7 @@ I am not the biggest fan of slow cinema, but there is several I like, regardless
 {{ figure(src="https://matcauthon49.github.io/assets/blog/akerman/belmondo.png", alt="", caption="") }}
 
 
-[^1]: And, look: I love America. The fact that the greatest society the world has ever had[^4] followed from what is essentially the opposite of the antithesis I of what purport to support has not gone unnoticed by me. Someday I will know the answer to how such a thing happened, but for now I’m going to assume that it has something to do with the protestant work ethic.
+[^1]: And, look: I love America. The fact that the greatest society the world has ever had[^4] followed from what is essentially the antithesis I of what purport to support has not gone unnoticed by me. Someday I will know the answer to how such a thing happened, but for now I’m going to assume that it has something to do with the protestant work ethic.
 
 [^2]: Janet Bergstrom, Sight and Sound, November 1999.
 
