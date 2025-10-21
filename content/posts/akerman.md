@@ -68,4 +68,4 @@ I am not the biggest fan of slow cinema, but there is several I like, regardless
 
 [^3]: Marion Kalter, Interview with Chantal Akerman, 1977.
 
-[^4]: Well, second-greatest. Where were you when Rome fell?
+[^4]: Well, second-greatest. Where were you when the Roman Empire fell?
