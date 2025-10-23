@@ -690,7 +690,7 @@ content = "Anthony Bale"
 
 [[collection]]
 type = "card_simple"
-title = "The Long History of the Futuree"
+title = "The Long History of the Future"
 content = "Nicole Kobie"
 
 [[collection]]
@@ -702,3 +702,8 @@ content = "Nell Greenfieldboyce"
 type = "card_simple"
 title = "Nine Stories"
 content = "J.D. Salinger"
+
+[[collection]]
+type = "card_simple"
+title = "Atomized"
+content = "Michel Houellebecq"

@@ -7,3 +7,9 @@ content = "Don Delillo"
 type = "card_simple"
 title = "Ficciones"
 content = "Borges"
+
+
+[[collection]]
+type = "card_simple"
+title = "Van Gogh: The Complete Paintings"
+content = "Ingo F. Walther"

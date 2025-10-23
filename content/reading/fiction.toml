@@ -1,5 +1,10 @@
 [[collection]]
 type = "card_simple"
+title = "Wuthering Heights"
+content = "Emily Brontë"
+
+[[collection]]
+type = "card_simple"
 title = "The Secret History"
 content = "Donna Tartt"
 
@@ -12,6 +17,7 @@ content = "Hermann Hesse"
 type = "card_simple"
 title = "End Zone"
 content = "Don Delillo"
+date = "Good ✅"
 
 [[collection]]
 type = "card_simple"

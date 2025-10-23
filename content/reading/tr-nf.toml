@@ -89,3 +89,8 @@ content = "Edward Frenkel"
 type = "card_simple"
 title = "Retromania"
 content = "Simon Reynolds"
+
+[[collection]]
+type = "card_simple"
+title = "Van Gogh: The Complete Paintings"
+content = "Ingo F. Walther"
