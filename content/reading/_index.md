@@ -30,7 +30,6 @@ I have a burning hatred for the Goodreads and Storygraph UIs and the personaliti
 {{ collection(file="tr-classics.toml") }}
 
 **contemporary**
-
 {{ collection(file="tr-contemporary.toml") }}
 
 

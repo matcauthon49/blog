@@ -380,6 +380,11 @@ content = "Ernest Hemingway"
 
 [[collection]]
 type = "card_simple"
+title = "The Stranger"
+content = "Albert Camus"
+
+[[collection]]
+type = "card_simple"
 title = "The Myth of Sisyphus and Other Essays"
 content = "Albert Camus"
 

@@ -1,10 +1,5 @@
 [[collection]]
 type = "card_simple"
-title = "The Stranger"
-content = "Albert Camus"
-
-[[collection]]
-type = "card_simple"
 title = "Wuthering Heights"
 content = "Emily Brontë"
 
