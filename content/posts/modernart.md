@@ -43,7 +43,7 @@ Of course, my first instinct is that there must be something I’m missing, whic
 
 But a lot of these exhibits at the *Paris Internationale* seem to be pretty much nothing at all, and even in the cases where I can see what they’re doing they don’t seem to be accomplishing their function effectively[^3]. Consider this piece by [Eva Fàbregas](http://www.evafabregas.com/):
 
-{{ figure(src="https://matcauthon49.github.io/assets/blog/modernart/sculpture.png", alt="", caption="A scuplture I saw at the exhibition, designed by [Eva Fàbregas](http://www.evafabregas.com).") }}
+{{ figure(src="https://matcauthon49.github.io/assets/blog/modernart/sculpture.png", alt="", caption="A scuplture I saw at the exhibition, designed by [Eva Fàbregas].") }}
 
 which is accompanied by the following description:
 
@@ -57,7 +57,7 @@ I can’t really articulate Ballard better than Mark Fisher does it, but the und
 
 My next impulse is to say that *Crash* is, of course, a narrative form in the way that the sculpture isn’t, and it is undoubtedly true that narrative forms are better at doing the things that I want them to do. It is not hard to tell that I am a narrative form guy. I like books and movies. If that is to be considered, it’s not like I didn’t gain anything from the above sculpture—I liked looking at it, and even before reading the description it did feel like something weirdly biological, so I’m not being thrown off entirely. But then there’s things like this:
 
-{{ figure(src="https://matcauthon49.github.io/assets/blog/modernart/thing.png", alt="", caption="A scuplture I saw at the exhibition, presented by [Galerie Krinzinger](https://galerie-krinzinger.at).") }}
+{{ figure(src="https://matcauthon49.github.io/assets/blog/modernart/thing.png", alt="", caption="A scuplture I saw at the exhibition, presented by [Galerie Krinzinger].") }}
 
 Like, I don’t know what this is or why it’s good or why it’s being shown to me.
 
