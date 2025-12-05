@@ -1,7 +1,7 @@
 +++
 title = "heartbreak and loathing in scandinavia"
 date = 2025-12-06
-draft = false
+draft = true
 
 [taxonomies]
 tags = ["travel", "dairy"]
