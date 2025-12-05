@@ -1,6 +1,6 @@
 +++
-title = "are things really absurd?"
-date = 2025-11-10
+title = "some irrational thoughts about the absurdity of existence"
+date = 2025-12-21
 draft = true
 
 [taxonomies]
