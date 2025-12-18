@@ -3,7 +3,7 @@ title = "my year of rest and retrospection"
 date = 2025-11-09
 
 [taxonomies]
-tags = ["cinema", "analysis"]
+tags = ["movies", "analysis"]
 +++
 
 I am always on the lookout for excuses to talk about my favorite films, and me getting older by another year is always a good reason—22, thank you very much—so I have decided to blog a nice curation of writings pertaining the films I enjoyed this year[^1]. My usual film retrospective comprises of me making some kind of list that ‘updates’ my ranking of the 100 best movies of all time, or something of that sort, but at this point that ranking is no longer as malleable as it used to be and I also don’t believe in long, ordered lists of movies anymore. Last year I tried instead making a list of ‘my personal canon.’ This listed about 270 films, but such a thing is quite useless as a retrospective—I never got around to writing even a one-line discussion of what the particular film does for me, so this year I will attempt to try something primarily verbose and hence more in-line with what I even intend to accomplish with these.
