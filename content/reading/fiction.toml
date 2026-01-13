@@ -1,5 +1,28 @@
 [[collection]]
 type = "card_simple"
+title = "Oblivion"
+content = "David Foster Wallace"
+date = "Really Good ❗"
+
+[[collection]]
+type = "card_simple"
+title = "Stories of Your Life and Others"
+content = "Ted Chiang"
+
+[[collection]]
+type = "card_simple"
+title = "Something to do With Paying Attention"
+content = "David Foster Wallace"
+date = "Good ✅"
+
+[[collection]]
+type = "card_simple"
+title = "Harry Potter I-VII"
+content = "JK Rowling"
+date = "Really Good ❗"
+
+[[collection]]
+type = "card_simple"
 title = "The Stranger"
 content = "Albert Camus"
 
@@ -115,7 +138,7 @@ content = "Raymond Carver"
 type = "card_simple"
 title = "The Unbearable Lightness of Being"
 content = "Milan Kundera"
-date = "Really Good ❗"
+date = "One of the Best 👑"
 
 [[collection]]
 type = "card_simple"
