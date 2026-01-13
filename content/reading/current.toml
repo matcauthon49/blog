@@ -14,4 +14,12 @@ type = "card_simple"
 title = "Mythology"
 content = "Edith Hamilton"
 
+[[collection]]
+type = "card_simple"
+title = "The Faces"
+content = "Tove Ditlevsen"
 
+[[collection]]
+type = "card_simple"
+title = "Journey to the End of the Night"
+content = "Louis-Ferdinand Céline"
