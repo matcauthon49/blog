@@ -18,18 +18,10 @@ generate_feeds = false # Whether to generate a feed file in root, read docs for 
 feed_filenames = ["feed.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
 taxonomies = [{ name = "tags" }, { name = "categories" }]
 
-[markdown]
-highlight_code = true
-highlight_theme = "css"
-highlight_themes_css = [
-  { theme = "serene-light", filename = "hl-light.css" },
-  { theme = "serene-dark", filename = "hl-dark.css" },
-]
-render_emoji = false
-external_links_target_blank = false
-external_links_no_follow = true
-external_links_no_referrer = true
-smart_punctuation = false
+
+[markdown.highlighting]
+theme = "serene"
+style = "class"
 
 [slugify]
 paths = "on"
@@ -53,7 +45,7 @@ blog_section_path = "/posts"
 back_link_text = "back" # Text of the back button
 force_theme = false # false | "light" | "dark"
 
-footer_copyright = "© 2025 naman kumar"
+footer_copyright = "© 2026 naman kumar"
 footer_credits = false # Whether to show "Built with zola and serene" in footer
 
 not_found_error_text = "404 Not Found"
