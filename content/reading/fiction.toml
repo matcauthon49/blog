@@ -1,5 +1,11 @@
 [[collection]]
 type = "card_simple"
+title = "Something to do With Paying Attention"
+content = "David Foster Wallace"
+date = "One of the Best 👑"
+
+[[collection]]
+type = "card_simple"
 title = "Oblivion"
 content = "David Foster Wallace"
 date = "Really Good ❗"
