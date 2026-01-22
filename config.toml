@@ -18,8 +18,15 @@ generate_feeds = false # Whether to generate a feed file in root, read docs for 
 feed_filenames = ["feed.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
 taxonomies = [{ name = "tags" }, { name = "categories" }]
 
+[markdown]
+render_emoji = false
+external_links_target_blank = false
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = false
+
 [markdown.highlighting]
-theme = "aurora-x"
+theme = "gruvbox-dark"
 style = "class"
 
 [slugify]
