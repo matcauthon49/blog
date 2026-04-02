@@ -1,0 +1,25 @@
+[[collection]]
+type = "card_simple"
+title = "k-punk"
+content = "Mark Fisher"
+
+[[collection]]
+type = "card_simple"
+title = "Infinite Jest"
+content = "David Foster Wallace"
+date = "always in progress..."
+
+[[collection]]
+type = "card_simple"
+title = "Mythology"
+content = "Edith Hamilton"
+
+[[collection]]
+type = "card_simple"
+title = "The Faces"
+content = "Tove Ditlevsen"
+
+[[collection]]
+type = "card_simple"
+title = "Journey to the End of the Night"
+content = "Louis-Ferdinand Céline"
