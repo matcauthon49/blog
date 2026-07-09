@@ -9,15 +9,13 @@ page_template = "post.html"
 lang = "en"
 +++
 
-# currently reading
-{{ collection(file="current.toml") }}
-
 # fiction
 {{ collection(file="fiction.toml") }}
 
 # non fiction
 {{ collection(file="nfiction.toml") }}
 
+<!-- 
 
 # to-read
 
@@ -37,7 +35,7 @@ I have a burning hatred for the Goodreads and Storygraph UIs and the personaliti
 
 **sports**
 <!-- {{ collection(file="tr-sports.toml") }} -->
-
+<!-- 
 **history**
 
 **philosophy**
@@ -50,4 +48,4 @@ I have a burning hatred for the Goodreads and Storygraph UIs and the personaliti
 
 **misc**
 
-**birding**
+**birding** -->
