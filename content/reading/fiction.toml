@@ -1,5 +1,10 @@
 [[collection]]
 type = "card_simple"
+title = "Snow Country"
+content = "Yasunari Kawabata"
+
+[[collection]]
+type = "card_simple"
 title = "South of the Border, West of the Sun"
 content = "Haruki Murakami"
 
