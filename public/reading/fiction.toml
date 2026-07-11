@@ -1,5 +1,15 @@
 [[collection]]
 type = "card_simple"
+title = "Snow Country"
+content = "Yasunari Kawabata"
+
+[[collection]]
+type = "card_simple"
+title = "South of the Border, West of the Sun"
+content = "Haruki Murakami"
+
+[[collection]]
+type = "card_simple"
 title = "Something to do With Paying Attention"
 content = "David Foster Wallace"
 date = "One of the Best 👑"
