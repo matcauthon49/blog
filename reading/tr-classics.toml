@@ -1,0 +1,639 @@
+[[collection]]
+type = "card_simple"
+title = "Don Quixote"
+content = "Miguel de Cervantes Saavedra"
+
+[[collection]]
+type = "card_simple"
+title = "Faust"
+content = "Johann Wolfgang von Goethe"
+
+[[collection]]
+type = "card_simple"
+title = "Pride and Prejudice"
+content = "Jane Austen"
+
+[[collection]]
+type = "card_simple"
+title = "Emma"
+content = "Jane Austen"
+
+[[collection]]
+type = "card_simple"
+title = "Persuasion"
+content = "Jane Austen"
+
+[[collection]]
+type = "card_simple"
+title = "Goethe's Correspondence With A Child"
+content = "Johann Wolfgang von Goethe"
+
+[[collection]]
+type = "card_simple"
+title = "Dead Souls"
+content = "Nikolai Gogol"
+
+[[collection]]
+type = "card_simple"
+title = "A Christmas Carol"
+content = "Charles Dickens"
+
+[[collection]]
+type = "card_simple"
+title = "Jane Eyre"
+content = "Charlotte Brontë"
+
+[[collection]]
+type = "card_simple"
+title = "The Count of Monte Cristo"
+content = "Alexandre Dumas"
+
+[[collection]]
+type = "card_simple"
+title = "Vanity Fair"
+content = "William Makepeace Thackeray"
+
+[[collection]]
+type = "card_simple"
+title = "Moby Dick"
+content = "Herman Melville"
+
+[[collection]]
+type = "card_simple"
+title = "Leaves of Grass"
+content = "Walt Whitman"
+
+[[collection]]
+type = "card_simple"
+title = "A Tale of Two Cities"
+content = "Charles Dickens"
+
+[[collection]]
+type = "card_simple"
+title = "Great Expectations"
+content = "Charles Dickens"
+
+[[collection]]
+type = "card_simple"
+title = "Dominique"
+content = "Eugène Fromentin"
+
+[[collection]]
+type = "card_simple"
+title = "Fathers and Sons"
+content = "Ivan Turgenev"
+
+[[collection]]
+type = "card_simple"
+title = "Les Miserables"
+content = "Victor Hugo"
+
+[[collection]]
+type = "card_simple"
+title = "Our Mutual Friend"
+content = "Charles Dickens"
+
+[[collection]]
+type = "card_simple"
+title = "Crime and Punishment"
+content = "Fyodor Dostoevsky"
+
+[[collection]]
+type = "card_simple"
+title = "The Idiot"
+content = "Fyodor Dostoevsky"
+
+[[collection]]
+type = "card_simple"
+title = "War and Peace"
+content = "Leo Tolstoy"
+
+[[collection]]
+type = "card_simple"
+title = "Middlemarch"
+content = "George Eliot"
+
+[[collection]]
+type = "card_simple"
+title = "Madame Bovary"
+content = "Gustave Flaubert"
+
+[[collection]]
+type = "card_simple"
+title = "Anna Karenina"
+content = "Leo Tolstoy"
+
+[[collection]]
+type = "card_simple"
+title = "A Confession"
+content = "Leo Tolstoy"
+
+[[collection]]
+type = "card_simple"
+title = "The Brothers Karamazov"
+content = "Fyodor Dostoevsky"
+
+[[collection]]
+type = "card_simple"
+title = "Thus Spake Zarathustra"
+content = "Friedrich Nietzsche"
+
+[[collection]]
+type = "card_simple"
+title = "The Adventures of Huckleberry Finn"
+content = "Mark Twain"
+
+[[collection]]
+type = "card_simple"
+title = "The Death of Ivan Ilych"
+content = "Leo Tolstoy"
+
+[[collection]]
+type = "card_simple"
+title = "Beyond Good and Evil"
+content = "Friedrich Nietzsche"
+
+[[collection]]
+type = "card_simple"
+title = "On the Genealogy of Morals"
+content = "Friedrich Nietzsche"
+
+[[collection]]
+type = "card_simple"
+title = "The Jungle Book"
+content = "Rudyard Kipling"
+
+[[collection]]
+type = "card_simple"
+title = "Dracula"
+content = "Bram Stoker"
+
+[[collection]]
+type = "card_simple"
+title = "Heart of Darkness"
+content = "Joseph Conrad"
+
+[[collection]]
+type = "card_simple"
+title = "White Fang"
+content = "Jack London"
+
+[[collection]]
+type = "card_simple"
+title = "The Wind in the Willows"
+content = "Kenneth Grahame"
+
+[[collection]]
+type = "card_simple"
+title = "The Secret Garden"
+content = "Frances Hodgson Burnett"
+
+[[collection]]
+type = "card_simple"
+title = "In Search of Lost Time"
+content = "Marcel Proust"
+
+[[collection]]
+type = "card_simple"
+title = "Kokoro"
+content = "Natsume Sōseki"
+
+[[collection]]
+type = "card_simple"
+title = "Of Human Bondage"
+content = "W. Somerset Maugham"
+
+[[collection]]
+type = "card_simple"
+title = "The Age of Innocence"
+content = "Edith Wharton"
+
+[[collection]]
+type = "card_simple"
+title = "Ulysses"
+content = "James Joyce"
+
+[[collection]]
+type = "card_simple"
+title = "Siddhartha"
+content = "Hermann Hesse"
+
+[[collection]]
+type = "card_simple"
+title = "Zeno's Conscience"
+content = "Italo Svevo"
+
+[[collection]]
+type = "card_simple"
+title = "Mrs. Dalloway"
+content = "Virginia Woolf"
+
+[[collection]]
+type = "card_simple"
+title = "Naomi"
+content = "Jun'ichirō Tanizaki"
+
+[[collection]]
+type = "card_simple"
+title = "The Magic Mountain"
+content = "Thomas Mann"
+
+[[collection]]
+type = "card_simple"
+title = "Complete Stories"
+content = "Dorothy Parker"
+
+[[collection]]
+type = "card_simple"
+title = "The Great Gatsby"
+content = "F. Scott Fitzgerald"
+
+[[collection]]
+type = "card_simple"
+title = "The Trial"
+content = "Franz Kafka"
+
+[[collection]]
+type = "card_simple"
+title = "The Castle"
+content = "Franz Kafka"
+
+[[collection]]
+type = "card_simple"
+title = "The Sun Also Rises"
+content = "Ernest Hemingway"
+
+[[collection]]
+type = "card_simple"
+title = "Rashōmon and Seventeen Other Stories"
+content = "Ryūnosuke Akutagawa"
+
+[[collection]]
+type = "card_simple"
+title = "Death Comes for the Archbishop"
+content = "Willa Cather"
+
+[[collection]]
+type = "card_simple"
+title = "To the Lighthouse"
+content = "Virginia Woolf"
+
+[[collection]]
+type = "card_simple"
+title = "All Quiet on the Western Front"
+content = "Erich Maria Remarque"
+
+[[collection]]
+type = "card_simple"
+title = "The Works of Anton Checkov"
+content = "Anton Chekhov"
+
+[[collection]]
+type = "card_simple"
+title = "Vile Bodies"
+content = "Evelyn Waugh"
+
+[[collection]]
+type = "card_simple"
+title = "The Man Without Qualities"
+content = "Robert Musil"
+
+[[collection]]
+type = "card_simple"
+title = "As I Lay Dying"
+content = "William Faulkner"
+
+[[collection]]
+type = "card_simple"
+title = "Journey to the End of the Night"
+content = "Louis-Ferdinand Céline"
+
+[[collection]]
+type = "card_simple"
+title = "The Street of Crocodiles"
+content = "Bruno Schulz"
+
+[[collection]]
+type = "card_simple"
+title = "In Praise of Shadows"
+content = "Jun'ichirō Tanizaki"
+
+[[collection]]
+type = "card_simple"
+title = "Appointment in Samarra"
+content = "John O'Hara"
+
+[[collection]]
+type = "card_simple"
+title = "Tropic of Cancer"
+content = "Henry Miller"
+
+[[collection]]
+type = "card_simple"
+title = "H.P. Lovecraft: The Complete Fiction"
+content = "H.P. Lovecraft"
+
+[[collection]]
+type = "card_simple"
+title = "Ferdydurke"
+content = "Witold Gombrowicz"
+
+[[collection]]
+type = "card_simple"
+title = "Of Mice and Men"
+content = "John Steinbeck"
+
+[[collection]]
+type = "card_simple"
+title = "Scoop"
+content = "Evelyn Waugh"
+
+[[collection]]
+type = "card_simple"
+title = "Nausea"
+content = "Jean-Paul Sartre"
+
+[[collection]]
+type = "card_simple"
+title = "The Day of the Locust"
+content = "Nathanael West"
+
+[[collection]]
+type = "card_simple"
+title = "The Big Sleep"
+content = "Raymond Chandler"
+
+[[collection]]
+type = "card_simple"
+title = "The Grapes of Wrath"
+content = "John Steinbeck"
+
+[[collection]]
+type = "card_simple"
+title = "The Heart Is a Lonely Hunter"
+content = "Carson McCullers"
+
+[[collection]]
+type = "card_simple"
+title = "For Whom the Bell Tolls"
+content = "Ernest Hemingway"
+
+[[collection]]
+type = "card_simple"
+title = "The Myth of Sisyphus and Other Essays"
+content = "Albert Camus"
+
+[[collection]]
+type = "card_simple"
+title = "Ficciones"
+content = "Jorge Luis Borges"
+
+[[collection]]
+type = "card_simple"
+title = "No Longer Human"
+content = "Osamu Dazai"
+
+[[collection]]
+type = "card_simple"
+title = "1984"
+content = "George Orwell"
+
+[[collection]]
+type = "card_simple"
+title = "Death of a Salesman"
+content = "Arthur Miller"
+
+[[collection]]
+type = "card_simple"
+title = "Waiting for Godot"
+content = "Samuel Beckett"
+
+[[collection]]
+type = "card_simple"
+title = "East of Eden"
+content = "John Steinbeck"
+
+[[collection]]
+type = "card_simple"
+title = "The Adventures of Augie March"
+content = "Saul Bellow"
+
+[[collection]]
+type = "card_simple"
+title = "The Go-Between"
+content = "L.P. Hartley"
+
+[[collection]]
+type = "card_simple"
+title = "Fahrenheit 451"
+content = "Ray Bradbury"
+
+[[collection]]
+type = "card_simple"
+title = "A Spy in the House of Love"
+content = "Anaïs Nin"
+
+[[collection]]
+type = "card_simple"
+title = "The Lord of the Rings"
+content = "J.R.R. Tolkien"
+
+[[collection]]
+type = "card_simple"
+title = "Lord of the Flies"
+content = "William Golding"
+
+[[collection]]
+type = "card_simple"
+title = "The Quiet American"
+content = "Graham Greene"
+
+[[collection]]
+type = "card_simple"
+title = "The Recognitions"
+content = "William Gaddis"
+
+[[collection]]
+type = "card_simple"
+title = "Lolita"
+content = "Vladimir Nabokov"
+
+[[collection]]
+type = "card_simple"
+title = "The Temple of the Golden Pavilion"
+content = "Yukio Mishima"
+
+[[collection]]
+type = "card_simple"
+title = "The Fall"
+content = "Albert Camus"
+
+[[collection]]
+type = "card_simple"
+title = "Long Day’s Journey into Night"
+content = "Eugene O'Neill"
+
+[[collection]]
+type = "card_simple"
+title = "Doctor Zhivago"
+content = "Boris Pasternak"
+
+[[collection]]
+type = "card_simple"
+title = "On the Road"
+content = "Jack Kerouac"
+
+[[collection]]
+type = "card_simple"
+title = "The Dud Avocado"
+content = "Elaine Dundy"
+
+[[collection]]
+type = "card_simple"
+title = "The Leopard"
+content = "Giuseppe Tomasi di Lampedusa"
+
+[[collection]]
+type = "card_simple"
+title = "Things Fall Apart"
+content = "Chinua Achebe"
+
+[[collection]]
+type = "card_simple"
+title = "The Tin Drum"
+content = "Günter Grass"
+
+[[collection]]
+type = "card_simple"
+title = "Naked Lunch"
+content = "William S. Burroughs"
+
+[[collection]]
+type = "card_simple"
+title = "Rabbit, Run"
+content = "John Updike"
+
+[[collection]]
+type = "card_simple"
+title = "The Moviegoer"
+content = "Walker Percy"
+
+[[collection]]
+type = "card_simple"
+title = "A House for Mr Biswas"
+content = "V.S. Naipaul"
+
+[[collection]]
+type = "card_simple"
+title = "The Woman in the Dunes"
+content = "Kōbō Abe"
+
+[[collection]]
+type = "card_simple"
+title = "One Day in the Life of Ivan Denisovich"
+content = "Aleksandr Solzhenitsyn"
+
+[[collection]]
+type = "card_simple"
+title = "A Clockwork Orange"
+content = "Anthony Burgess"
+
+[[collection]]
+type = "card_simple"
+title = "Another Country"
+content = "James Baldwin"
+
+[[collection]]
+type = "card_simple"
+title = "One Flew Over the Cuckoo’s Nest"
+content = "Ken Kesey"
+
+[[collection]]
+type = "card_simple"
+title = "Pale Fire"
+content = "Vladimir Nabokov"
+
+[[collection]]
+type = "card_simple"
+title = "The Sailor Who Fell from Grace with the Sea"
+content = "Yukio Mishima"
+
+[[collection]]
+type = "card_simple"
+title = "Hopscotch"
+content = "Julio Cortázar"
+
+[[collection]]
+type = "card_simple"
+title = "V."
+content = "Thomas Pynchon"
+
+[[collection]]
+type = "card_simple"
+title = "Cat’s Cradle"
+content = "Kurt Vonnegut Jr."
+
+[[collection]]
+type = "card_simple"
+title = "Dancing Lessons for the Advanced in Age"
+content = "Bohumil Hrabal"
+
+[[collection]]
+type = "card_simple"
+title = "Ariel"
+content = "Sylvia Plath"
+
+[[collection]]
+type = "card_simple"
+title = "Stoner"
+content = "John  Williams"
+
+[[collection]]
+type = "card_simple"
+title = "The Kandy-Kolored Tangerine-Flake Streamline Baby"
+content = "Tom Wolfe"
+
+[[collection]]
+type = "card_simple"
+title = "Wide Sargasso Sea"
+content = "Jean Rhys"
+
+[[collection]]
+type = "card_simple"
+title = "In Cold Blood"
+content = "Truman Capote"
+
+[[collection]]
+type = "card_simple"
+title = "The Crying of Lot 49"
+content = "Thomas Pynchon"
+
+[[collection]]
+type = "card_simple"
+title = "Ice"
+content = "Anna Kavan"
+
+[[collection]]
+type = "card_simple"
+title = "The Silent Cry"
+content = "Kenzaburō Ōe"
+
+[[collection]]
+type = "card_simple"
+title = "The Master and Margarita"
+content = "Mikhail Bulgakov"
+
+[[collection]]
+type = "card_simple"
+title = "The Third Policeman"
+content = "Flann O'Brien"
+
+[[collection]]
+type = "card_simple"
+title = "The Outsiders"
+content = "S.E. Hinton"
+
+[[collection]]
+type = "card_simple"
+title = "One Hundred Years of Solitude"
+content = "Gabriel García Márquez"
