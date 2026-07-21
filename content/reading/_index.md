@@ -9,11 +9,16 @@ page_template = "post.html"
 lang = "en"
 +++
 
+
+# classical
+{{ collection(file="classics.toml") }}
+
 # fiction
 {{ collection(file="fiction.toml") }}
 
 # non fiction
 {{ collection(file="nfiction.toml") }}
+
 
 <!-- 
 

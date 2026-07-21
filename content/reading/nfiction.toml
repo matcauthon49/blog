@@ -1,5 +1,10 @@
 [[collection]]
 type = "card_simple"
+title = "Orality and Literacy"
+content = "Walter Ong"
+
+[[collection]]
+type = "card_simple"
 title = "Otaku: Japan’s Database Animals"
 content = "Hiroki Azuma"
 
