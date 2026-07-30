@@ -103,3 +103,6 @@ I am reminded of Lord Kelvin, who proclaimed in 1894 that physics was over and t
 [^1]: Beautiful problem. Roughly speaking, the problem cares about the distances between pairs of points on the Euclidean plane. I can easily pick two points that have distance $1$ between them: take (0,0) and (0,1). If I pick (0,2) as well, I now have two unit pairs. The question asks to maximize the number of unit pairs among $n$ distinctly chosen points.
 
 [^2]: Wisnicki, A., (2001) “A Trove of New Works by Thomas Pynchon? Bomarc Service News Rediscovered”, Pynchon Notes , 9-34. doi: https://doi.org/10.16995/pn.88
+
+
+[^3]: Ars Longa, Vita Brevis by Scott Alexander, not a good story in terms of being an actual story but it has an intriguing concept.
