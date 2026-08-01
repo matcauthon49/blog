@@ -1,5 +1,11 @@
 [[collection]]
 type = "card_simple"
+title = "The Sun Also Rises"
+content = "Ernest Hemingway"
+date = "Really Good ❗"
+
+[[collection]]
+type = "card_simple"
 title = "Snow Country"
 content = "Yasunari Kawabata"
 
