@@ -1,5 +1,10 @@
 [[collection]]
 type = "card_simple"
+title = "I, Robot"
+content = "Isaac Asimov"
+
+[[collection]]
+type = "card_simple"
 title = "The Sun Also Rises"
 content = "Ernest Hemingway"
 date = "Really Good ❗"
