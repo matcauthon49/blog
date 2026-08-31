@@ -1,5 +1,11 @@
 [[collection]]
 type = "card_simple"
+title = "Franny and Zooey"
+content = "JD Salinger"
+date = "Really Good ❗"
+
+[[collection]]
+type = "card_simple"
 title = "Big Sur"
 content = "Jack Kerouac"
 date = "Good ✅"
