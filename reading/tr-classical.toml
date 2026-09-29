@@ -1,0 +1,79 @@
+[[collection]]
+type = "card_simple"
+title = "The Odyssey"
+content = "Homer"
+
+[[collection]]
+type = "card_simple"
+title = "The Iliad"
+content = "Homer"
+
+[[collection]]
+type = "card_simple"
+title = "Arabian Nights"
+content = "Anonymous"
+
+[[collection]]
+type = "card_simple"
+title = "The Bible"
+content = "Anonymous"
+
+[[collection]]
+type = "card_simple"
+title = "Beowulf"
+content = "Anonymous"
+
+[[collection]]
+type = "card_simple"
+title = "The Canterbury Tales"
+content = "Chaucer"
+
+[[collection]]
+type = "card_simple"
+title = "Inferno"
+content = "Dante Alighieri"
+
+[[collection]]
+type = "card_simple"
+title = "The Art of War"
+content = "Sun Tzu"
+
+[[collection]]
+type = "card_simple"
+title = "Tao Te Ching"
+content = "Lao Tzu"
+
+[[collection]]
+type = "card_simple"
+title = "Complete Works"
+content = "Shakespeare"
+
+[[collection]]
+type = "card_simple"
+title = "Sir Gawain and the Green Knight"
+content = "Anonymous"
+
+[[collection]]
+type = "card_simple"
+title = "Journey to the West"
+content = "Wu Cheng’en"
+
+[[collection]]
+type = "card_simple"
+title = "Water Margin"
+content = "Shi Nai’an"
+
+[[collection]]
+type = "card_simple"
+title = "Dream of the Red Chamber"
+content = "Cao Xueqin"
+
+[[collection]]
+type = "card_simple"
+title = "Three Kingdoms"
+content = "Luo Guanzhong"
+
+[[collection]]
+type = "card_simple"
+title = "The Scholars"
+content = "Wu Ching-tzu"
