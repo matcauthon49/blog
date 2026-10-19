@@ -104,5 +104,4 @@ I am reminded of Lord Kelvin, who proclaimed in 1894 that physics was over and t
 
 [^2]: Wisnicki, A., (2001) “A Trove of New Works by Thomas Pynchon? Bomarc Service News Rediscovered”, Pynchon Notes , 9-34. doi: https://doi.org/10.16995/pn.88
 
-
 [^3]: Ars Longa, Vita Brevis by Scott Alexander, not a good story in terms of being an actual story but it has an intriguing concept.
