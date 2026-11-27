@@ -1,0 +1,72 @@
+[[collection]]
+type = "art_simple"
+title = "Dazed & Confused" 
+subtitle = "Richard Linklater"
+link = "https://en.wikipedia.org/wiki/Dazed_and_Confused_(film)"
+img = "https://matcauthon49.github.io/assets/blog/movies/dnc.png"
+
+[[collection]]
+type = "art_simple"
+title = "Paris, Texas" 
+subtitle = "Wim Wenders"
+link = "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+img = "https://matcauthon49.github.io/assets/blog/movies/pt.png"
+
+
+[[collection]]
+type = "art_simple"
+title = "The Graduate" 
+subtitle = "Mike Nichols"
+link = "https://en.wikipedia.org/wiki/The_Graduate"
+img = "https://matcauthon49.github.io/assets/blog/movies/graduate.png"
+
+
+[[collection]]
+type = "art_simple"
+title = "Miami Vice" 
+subtitle = "Michael Mann"
+link = "https://en.wikipedia.org/wiki/Miami_Vice_(film)"
+img = "https://matcauthon49.github.io/assets/blog/movies/mv.png"
+
+
+[[collection]]
+type = "art_simple"
+title = "Before Sunset" 
+subtitle = "Richard Linklater"
+link = "https://en.wikipedia.org/wiki/Before_Sunset"
+img = "https://matcauthon49.github.io/assets/blog/movies/bs.png"
+
+[[collection]]
+type = "art_simple"
+title = "Manhattan" 
+subtitle = "Woody Allen"
+link = "https://en.wikipedia.org/wiki/Manhattan_(1979_film)"
+img = "https://matcauthon49.github.io/assets/blog/movies/manhattan.png"
+
+[[collection]]
+type = "art_simple"
+title = "Last Picture Show" 
+subtitle = "Peter Bogdanovich"
+link = "https://en.wikipedia.org/wiki/The_Last_Picture_Show"
+img = "https://matcauthon49.github.io/assets/blog/movies/last.png"
+
+[[collection]]
+type = "art_simple"
+title = "Eyes Wide Shut" 
+subtitle = "Stanley Kubrick"
+link = "https://en.wikipedia.org/wiki/Eyes_Wide_Shut"
+img = "https://matcauthon49.github.io/assets/blog/movies/ews.png"
+
+[[collection]]
+type = "art_simple"
+title = "(ハル) (Haru)" 
+subtitle = "Yoshimitsu Morita"
+link = "https://en.wikipedia.org/wiki/Haru_(1996_film)"
+img = "https://matcauthon49.github.io/assets/blog/movies/haru.png"
+
+[[collection]]
+type = "art_simple"
+title = "The Long Goodbye" 
+subtitle = "Robert Altman"
+link = "https://en.wikipedia.org/wiki/The_Long_Goodbye_(film)"
+img = "https://matcauthon49.github.io/assets/blog/movies/tlg.png"
