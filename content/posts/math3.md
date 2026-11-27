@@ -1,6 +1,6 @@
 +++
 title = "doctor lazarus"
-date = 2026-11-24
+date = 2026-11-27
 draft = false
 
 [taxonomies]
